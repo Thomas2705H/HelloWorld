@@ -14,7 +14,7 @@ Dieses Programm gibt am Ende eine Konsolenausgabe "Hello World" aus.
 -entpacken
 -starten
 
-#Demo
+# Demo
 Wenn se alles richtig gemacht haben sieht das Hello-World Programm so aus.
 
 
