@@ -11,7 +11,9 @@ Dieses Programm gibt am Ende eine Konsolenausgabe "Hello World" aus.
 
 # Ausführug
 -repository downloaden
+
 -entpacken
+
 -starten
 
 # Demo
