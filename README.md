@@ -18,6 +18,7 @@ Dieses Programm gibt am Ende eine Konsolenausgabe "Hello World" aus.
 -öffnen
 
 -run klicken(grüne Pfeil)
+![Bild3](https://user-images.githubusercontent.com/76431192/102872783-80892780-4440-11eb-88f7-298f1d419baf.PNG)
 
 # Demo
 Wenn se alles richtig gemacht haben sieht das Hello-World Programm so aus.
