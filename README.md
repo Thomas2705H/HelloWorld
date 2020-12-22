@@ -7,7 +7,7 @@ In diesem Projekt habe ich ein neues Hello World Programm geschrieben.
 Dieses Programm gibt am Ende eine Konsolenausgabe "Hello World" aus.
 
 
-# Vorraussetungen:
+# Vorraussetzungen:
 -Java Kenntnisse 
 
 # Ausführug
